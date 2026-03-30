@@ -217,14 +217,6 @@ Data Scientist / AI Engineer — Applied Mathematics & Machine Learning
  
 ---
  
-## 📌 Notes
- 
-- Notebook cleaned for GitHub rendering (no widget metadata issues)
-- All random seeds fixed (`torch`, `numpy`, `random` — seed 42) for reproducibility
-- `warnings.filterwarnings("ignore")` suppresses HuggingFace verbosity; re-enable if debugging
- 
----
- 
 ## ⭐ Contributing
  
 Contributions are welcome. Ideas for extension:
